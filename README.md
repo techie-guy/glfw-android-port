@@ -20,9 +20,9 @@ The Resulting APK: `app/build/outputs/apk/debug/app-debug.apk`
 # TODO
 - [X] Initialize Basic Application
 - [X] Add OpenGL ES Support
-- [] Implement Miscellaneous Methods
+- [ ] Implement Miscellaneous Methods
 - [X] Add Vulkan Support
-- [] Get Input from Keyboard
-- [] Get Input from Mouse
-- [] Get Input from Joystick
-- [] Implement Java and JNI*
+- [ ] Get Input from Keyboard
+- [ ] Get Input from Mouse
+- [ ] Get Input from Joystick
+- [ ] Implement Java and JNI*
