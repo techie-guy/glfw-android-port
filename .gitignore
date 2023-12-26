@@ -1,0 +1,5 @@
+.cache
+.gradle
+compile_commands.json
+app/build
+app/.cxx
